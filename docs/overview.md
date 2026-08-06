@@ -38,6 +38,6 @@ Fernanda enters this pathway with a strong base in executive and administrative 
 5. **Translate learning into job language.** Each project must produce a CV bullet, interview story and portfolio artefact.
 6. **Use sustainable intensity.** Maintain 8–12 structured hours weekly; use additional time only for agreed sprint periods.
 
-<div className="button-row"><a className="button button--primary" href="/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf" download>Download the complete PDF IDR</a><a className="button button--secondary" href="/idr/12-week-sprint">Open the 12-week sprint</a></div>
+<div className="button-row"><a className="button button--primary" href="https://fksmm.skunkworksacademy.com/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf" download>Download the complete PDF IDR</a><a className="button button--secondary" href="/idr/12-week-sprint">Open the 12-week sprint</a></div>
 
 <div className="privacy-banner"><strong>Confidentiality:</strong> This online version omits private contact details and detailed assessment responses. Use approved private systems for confidential review records.</div>

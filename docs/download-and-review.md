@@ -8,7 +8,7 @@ sidebar_label: Download & Sign-Off
 
 ## Download the full IDR
 
-<div className="button-row"><a className="button button--primary button--lg" href="/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf" download>Download Fernanda's IDR PDF</a><a className="button button--secondary button--lg" href="/downloads/fernanda-idr-12-week-calendar.ics" download>Download calendar</a></div>
+<div className="button-row"><a className="button button--primary button--lg" href="https://fksmm.skunkworksacademy.com/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf" download>Download Fernanda's IDR PDF</a><a className="button button--secondary button--lg" href="https://fksmm.skunkworksacademy.com/downloads/fernanda-idr-12-week-calendar.ics" download>Download calendar</a></div>
 
 ## First 10 working days
 

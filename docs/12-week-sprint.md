@@ -35,4 +35,4 @@ A week is complete only when Fernanda can:
 
 Watching content without producing evidence does not count as completion.
 
-<div className="button-row"><a className="button button--primary" href="/#workspace">Track sprint progress</a><a className="button button--secondary" href="/downloads/fernanda-idr-12-week-calendar.ics" download>Download the sprint calendar</a></div>
+<div className="button-row"><a className="button button--primary" href="/#workspace">Track sprint progress</a><a className="button button--secondary" href="https://fksmm.skunkworksacademy.com/downloads/fernanda-idr-12-week-calendar.ics" download>Download the sprint calendar</a></div>
