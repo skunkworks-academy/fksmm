@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Skunkworks Academy//Fernanda IDR 12 Week Sprint//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Fernanda IDR - 12 Week Sprint
+X-WR-CALDESC:AI-enabled business operations development timetable. Times are interpreted in the importing calendar's local timezone.
+BEGIN:VEVENT
+UID:fksmm-monday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260810T180000
+DTEND:20260810T193000
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=MO
+SUMMARY:Fernanda IDR - Instructor-led learning
+DESCRIPTION:Theory, demonstration, knowledge check and questions. Use synthetic or authorised information only.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-tuesday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260811T180000
+DTEND:20260811T193000
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=TU
+SUMMARY:Fernanda IDR - Guided practical lab
+DESCRIPTION:Complete the weekly guided lab and retain sanitised evidence.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-wednesday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260812T180000
+DTEND:20260812T190000
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=WE
+SUMMARY:Fernanda IDR - Career and credential study
+DESCRIPTION:Update career positioning or progress the selected credential milestone.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-thursday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260813T180000
+DTEND:20260813T193000
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=TH
+SUMMARY:Fernanda IDR - Applied project build
+DESCRIPTION:Build the portfolio artefact and update the decision log.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-friday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260814T170000
+DTEND:20260814T174500
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=FR
+SUMMARY:Fernanda IDR - Documentation and reflection
+DESCRIPTION:Update README, lessons learned, risks and next actions.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-saturday@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260815T090000
+DTEND:20260815T120000
+RRULE:FREQ=WEEKLY;COUNT=12;BYDAY=SA
+SUMMARY:Fernanda IDR - Deep work and assignment
+DESCRIPTION:Complete the weekly evidence deliverable.
+END:VEVENT
+BEGIN:VEVENT
+UID:fksmm-mentor@skunkworksacademy.com
+DTSTAMP:20260806T150000Z
+DTSTART:20260812T190000
+DTEND:20260812T194500
+RRULE:FREQ=WEEKLY;INTERVAL=2;COUNT=6;BYDAY=WE
+SUMMARY:Fernanda IDR - Mentor review with Raydo Matthee
+DESCRIPTION:Review evidence, decisions, blockers, controls and commitments.
+END:VEVENT
+END:VCALENDAR

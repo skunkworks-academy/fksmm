@@ -1,0 +1,11 @@
+{
+  "name": "Fernanda Macias Individual Development Roadmap",
+  "short_name": "Fernanda IDR",
+  "description": "Interactive AI-enabled business operations development roadmap.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F7F9FC",
+  "theme_color": "#1E6BD0",
+  "icons": [{"src":"/img/favicon-black.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
