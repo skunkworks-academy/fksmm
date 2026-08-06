@@ -8,7 +8,7 @@ sidebar_label: Calendar
 
 <div className="idr-badges"><span className="idr-badge">12 weeks</span><span className="idr-badge">Floating local time</span><span className="idr-badge">Fortnightly mentor review</span></div>
 
-<div className="button-row"><a className="button button--primary" href="/downloads/fernanda-idr-12-week-calendar.ics" download>Download calendar (.ics)</a><a className="button button--secondary" href="webcal://fksmm.skunkworksacademy.com/downloads/fernanda-idr-12-week-calendar.ics">Subscribe with calendar app</a></div>
+<div className="button-row"><a className="button button--primary" href="https://fksmm.skunkworksacademy.com/downloads/fernanda-idr-12-week-calendar.ics" download>Download calendar (.ics)</a><a className="button button--secondary" href="webcal://fksmm.skunkworksacademy.com/downloads/fernanda-idr-12-week-calendar.ics">Subscribe with calendar app</a></div>
 
 **Subscription URL**
 
