@@ -1,4 +1,6 @@
 const siteUrl = 'https://fksmm.skunkworksacademy.com';
+const pdfUrl = `${siteUrl}/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf`;
+const calendarUrl = `${siteUrl}/downloads/fernanda-idr-12-week-calendar.ics`;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -71,7 +73,7 @@ const config = {
           {to: '/idr/kpis', label: 'Goals & KPIs'},
         ]},
         {to: '/idr/resources', label: 'Resources', position: 'left'},
-        {href: '/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf', label: 'Download PDF', position: 'right', className: 'navbar-download-link'},
+        {href: pdfUrl, label: 'Download PDF', position: 'right', className: 'navbar-download-link'},
       ],
     },
     footer: {
@@ -90,8 +92,8 @@ const config = {
           {label: 'Progress Workspace', to: '/#workspace'},
         ]},
         {title: 'Access', items: [
-          {label: 'Download IDR PDF', href: '/idr/Fernanda_Koppe_Souto_Maior_Macias_IDR.pdf'},
-          {label: 'Download Calendar', href: '/downloads/fernanda-idr-12-week-calendar.ics'},
+          {label: 'Download IDR PDF', href: pdfUrl},
+          {label: 'Download Calendar', href: calendarUrl},
           {label: 'GitHub Repository', href: 'https://github.com/skunkworks-academy/fksmm'},
           {label: 'Skunkworks Academy', href: 'https://www.skunkworksacademy.com/'},
         ]},
