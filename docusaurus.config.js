@@ -6,7 +6,7 @@ const calendarUrl = `${siteUrl}/downloads/fernanda-idr-12-week-calendar.ics`;
 const config = {
   title: 'Fernanda Macias IDR',
   tagline: 'AI-Enabled Business Operations, Process Improvement and Strategic Executive Support',
-  favicon: 'img/favicon-black.svg',
+  favicon: 'images/favicon-search.png',
   url: siteUrl,
   baseUrl: '/',
   organizationName: 'skunkworks-academy',
@@ -27,8 +27,8 @@ const config = {
   headTags: [
     {tagName: 'meta', attributes: {name: 'robots', content: 'noindex, nofollow, noarchive, nosnippet'}},
     {tagName: 'meta', attributes: {name: 'referrer', content: 'strict-origin-when-cross-origin'}},
-    {tagName: 'link', attributes: {rel: 'icon', type: 'image/svg+xml', href: '/img/favicon-black.svg', media: '(prefers-color-scheme: light)'}},
-    {tagName: 'link', attributes: {rel: 'icon', type: 'image/svg+xml', href: '/img/favicon-white.svg', media: '(prefers-color-scheme: dark)'}},
+    {tagName: 'link', attributes: {rel: 'icon', type: 'image/png', href: 'https://www.skunkworksacademy.com/images/favicon-search.png', media: '(prefers-color-scheme: light)'}},
+    {tagName: 'link', attributes: {rel: 'icon', type: 'image/png', href: 'https://www.skunkworksacademy.com/images/favicon-search-dark.png', media: '(prefers-color-scheme: dark)'}},
     {tagName: 'link', attributes: {rel: 'apple-touch-icon', href: '/img/favicon-black.svg'}},
     {tagName: 'link', attributes: {rel: 'manifest', href: '/site.webmanifest'}},
     {
